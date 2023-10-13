@@ -32,7 +32,7 @@ Acart is an e-commerce platform developed using the MERN (MongoDB, Express.js, R
 
 Enjoy a delightful shopping experience with Acart!
 
-For more details, please check the [Acart repository](https://github.com/Ankit-github-io/Acart.git).
+For more details, please check the [Acart repository](https://github.com/Ankit-github-io/A-cart.git).
 - [Demo](https://shopacart.onrender.com)
 
 
@@ -97,6 +97,6 @@ For a detailed overview of my contributions, please visit my [GitHub profile](ht
 - **GitHub:** [github.com/Ankit-github-io](https://github.com/Ankit-github-io)
 - **LinkedIn:** [linkedin.com/in/ankit-maurya-988793274](https://www.linkedin.com/in/ankit-maurya-988793274/)
 
-Feel free to reach out to me via email or connect with me on LinkedIn. I am open to discussing new opportunities, collaborations, or answering any questions you may have. You can also explore my GitHub profile to see more of my projects and contributions.
+Feel free to reach out to me via email or connect with me on LinkedIn. I am open to discussing new opportunities, and collaborations, or answering any questions you may have. You can also explore my GitHub profile to see more of my projects and contributions.
 
 Looking forward to hearing from you!
