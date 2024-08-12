@@ -1,102 +1,28 @@
+<h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
+<h3 align="center">A passionate Full-Stack developer from India.</h3>
 
-# Ankit's GitHub Profile
-- 👋 Welcome to my GitHub profile!
-- 😎 I'm Ankit Maurya :)...
-- 🌱 I'm a UI Developer with expertise in web development and React.js.
-- 💞️ I specialize in creating visually appealing and user-friendly web applications.
-With skills in React.js, HTML, CSS, and JavaScript, I deliver high-quality code and innovative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-github-io&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-github-io" /> </p>
 
-Feel free to explore my projects and contributions. If you have any questions or collaboration opportunities, please reach out via email at ankit.murae@gmail.com or connect with me on LinkedIn [linkedin.com/in/ankit-maurya-988793274](https://linkedin.com/in/ankit-maurya-988793274)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-github-io" alt="ankit-github-io" /></a> </p>
 
-Thank you for visiting, and happy coding!
+- 🌱 I’m currently learning **Next.js, Prisma, React Native**
 
-## Projects
+- 💬 Ask me about **React.js, Node.js, Data Structure & Algorithm**
 
-### Project 1: Acart
+- 📫 How to reach me **ankit.murae@gmail.com , +917348416096**
 
-Acart is an e-commerce platform developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides users with a seamless online shopping experience, offering a wide range of products and intuitive features.
+- ⚡ Fun fact **I think I'm Introvert**
 
-#### Key Technologies:
-- MongoDB
-- Express.js
-- React
-- Node.js
-- HTML/CSS
-- JavaScript
-- Redux
-- Material-UI
-- Bootstrap
-- Razorpay
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mrankitmurae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitmurae" height="30" width="40" /></a>
+<a href="https://fb.com/mrankitprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrankitprofile" height="30" width="40" /></a>
+<a href="https://instagram.com/@_chocolate_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_chocolate_.__" height="30" width="40" /></a>
+</p>
 
-**Features**: With Acart, users can browse products, add them to the cart, and make secure payments using Razorpay. The website features a responsive and visually appealing design thanks to Material-UI and Bootstrap. The application utilizes the power of the MERN stack to handle data storage, server-side functionality, and dynamic frontend components.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-Enjoy a delightful shopping experience with Acart!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-github-io&show_icons=true&locale=en&layout=compact" alt="ankit-github-io" /></p>
 
-For more details, please check the [Acart repository](https://github.com/Ankit-github-io/A-cart.git).
-- [Demo](https://shopacart.onrender.com)
-
-
-### Project 2: keepNotes
-
-keepNotes is a note-taking application built using React.js. It allows users to create, edit, and organize their personal notes efficiently.
-
-**Key Technologies**:
-- React
-- HTML/CSS
-- JavaScript
-
-With keepNotes, users can easily write down their thoughts, ideas, to-do lists, and reminders. The application provides a clean and intuitive user interface, making it simple to create and manage notes. The use of React.js ensures a smooth and responsive user experience.
-
-Experience the convenience of keeping your notes organized and accessible with keepNotes!
-
-For more details, please check the [keepNotes repository](https://github.com/Ankit-github-io/keepNotes.git).
-
-
-
-## Skills
-
-- **Programming Languages**: JavaScript, HTML, CSS,C++,Python
-- **Frontend Development**: React.js, Redux, Material-UI, Bootstrap,Chakra UI
-- **Backend Development**: Node.js, Express.js
-- **Database**: MongoDB
-- **Payment Gateways**: Razorpay, Stripe
-- **Version Control**: Git, GitHub
-
-I have expertise in developing web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. With strong skills in frontend development, I am proficient in React.js, Redux, and have experience in using popular UI frameworks like Material-UI and Bootstrap to create visually appealing and responsive user interfaces. On the backend, I am skilled in using Node.js and Express.js to handle server-side logic and API communication. MongoDB is my preferred database for efficient data storage.
-
-Additionally, I have integrated the Razorpay payment gateway for secure and seamless online transactions. I am proficient in version control using Git and have experience collaborating with teams using GitHub.
-
-My skills enable me to create user-friendly, scalable, and visually appealing web applications.
-
-For more details and examples of my work, please visit my [GitHub profile](https://github.com/Ankit-github-io).
-
-
-
-
-## Contributions
-
-During my professional experience as a UI Developer, I have made significant contributions to various projects, demonstrating my skills and expertise in web development. Here are some notable contributions:
-
-1. **CarServiceWale.com**:
-   - Developed the user interface using React, Material UI, HTML, CSS, and JavaScript.
-   - Implemented responsive design and ensured cross-browser compatibility.
-   - Collaborated with the UI and UX development team to create a visually appealing and user-friendly website.
-   - Optimized website performance and conducted thorough testing before release.
-
-In addition to these contributions, I actively engage in the developer community by sharing my knowledge and insights through blog posts, technical discussions, and attending conferences. I believe in the power of collaboration and continuously strive to contribute positively to the software development community.
-
-For a detailed overview of my contributions, please visit my [GitHub profile](https://github.com/Ankit-github-io).
-
-
-
-
-## Contact
-
-- **Email:** ankit.murae@gmail.com
-- **Location:** Mumbai, Maharashtra
-- **GitHub:** [github.com/Ankit-github-io](https://github.com/Ankit-github-io)
-- **LinkedIn:** [linkedin.com/in/ankit-maurya-988793274](https://www.linkedin.com/in/ankit-maurya-988793274/)
-
-Feel free to reach out to me via email or connect with me on LinkedIn. I am open to discussing new opportunities, and collaborations, or answering any questions you may have. You can also explore my GitHub profile to see more of my projects and contributions.
-
-Looking forward to hearing from you!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-github-io&" alt="ankit-github-io" /></p>
